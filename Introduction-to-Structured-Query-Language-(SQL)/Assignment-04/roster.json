@@ -1,0 +1,18 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 4.6.6
+ */
+
+// Database 'roster'
+
+// roster.course
+
+[{"course_id":"1","title":"si106"}, {"course_id":"2","title":"si110"}, {"course_id":"3","title":"si206"}]
+
+// roster.member
+
+[{"user_id":"1","course_id":"1","role":"1"}, {"user_id":"2","course_id":"1","role":"0"}, {"user_id":"3","course_id":"1","role":"0"}, {"user_id":"4","course_id":"1","role":"0"}, {"user_id":"5","course_id":"1","role":"0"}, {"user_id":"6","course_id":"2","role":"1"}, {"user_id":"7","course_id":"2","role":"0"}, {"user_id":"8","course_id":"2","role":"0"}, {"user_id":"9","course_id":"2","role":"0"}, {"user_id":"10","course_id":"2","role":"0"}, {"user_id":"11","course_id":"3","role":"1"}, {"user_id":"12","course_id":"3","role":"0"}, {"user_id":"13","course_id":"3","role":"0"}, {"user_id":"14","course_id":"3","role":"0"}, {"user_id":"15","course_id":"3","role":"0"}]
+
+// roster.user
+
+[{"user_id":"2","name":"Ammara"}, {"user_id":"6","name":"Arella"}, {"user_id":"12","name":"Avah"}, {"user_id":"7","name":"Boshra"}, {"user_id":"13","name":"Elisabetta"}, {"user_id":"14","name":"Elvi"}, {"user_id":"3","name":"Kearney"}, {"user_id":"8","name":"Leaya"}, {"user_id":"4","name":"Maariyah"}, {"user_id":"9","name":"Muneeba"}, {"user_id":"1","name":"Naz"}, {"user_id":"5","name":"Rhein"}, {"user_id":"10","name":"Seerat"}, {"user_id":"15","name":"Tommy"}, {"user_id":"11","name":"Yann"}]
