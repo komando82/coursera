@@ -1,0 +1,65 @@
+
+/* This is a partial blocks.css, you need to add more rules
+   to this file to complete the assignment.  Do not add any CSS
+   styling to the original index.htm / start.htm */
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Here is one of many  CSS rules you will need... */
+#one, #two, #three, #four {
+    padding: 5px;
+    margin: 5px;
+    border-width: 5px;
+    border-style: solid;
+    width: 25%;
+    position: fixed;
+    z-index: 5;
+    text-align: left;
+}
+
+#one {
+	border-color: #0000ff;
+	bottom: 0;
+	right: 0;
+}
+
+#two {
+	border-color: #008000;
+	top: 0;
+	right: 0;
+}
+
+#three {
+	border-color: #ffa500;
+	top: 0;
+	left: 0;
+}
+
+#four {
+	border-color: #ffd700;
+	bottom: 0;
+	left: 0;
+}
+
+#link {
+	width: 50%;
+	display: inline-block;
+	margin: 0;
+}
+
+#link a {
+	display: inline-block;
+	background-color: #4663cd;
+	color: #fefefe;
+	padding: 5px 3px;
+	font-size: 14px;
+	line-height: 20px;
+	text-decoration: none;
+	text-shadow: 0 1px 0 #3c58c7;
+	font-weight: 500;
+}
