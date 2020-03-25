@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Guessing Game for Ivan Neradovic d04863f1</title>
+    <title>Guessing Game for POOJITHA C NAIR 125afb06</title>
   </head>
 <body>
   <h1>Welcome to my guessing game</h1>
@@ -21,11 +21,11 @@
       {
         echo("Your guess is not a number");
       } 
-      else if ( $_GET['guess'] < 28 ) 
+      else if ( $_GET['guess'] < 18 ) 
       {
         echo("Your guess is too low");
       } 
-      else if ( $_GET['guess'] > 28 ) 
+      else if ( $_GET['guess'] > 18 ) 
       {
         echo("Your guess is too high");
       } 
