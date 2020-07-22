@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Ivan Neradovic - Broken Rock Paper Scissors</title>
+		<title> Harshita Mertia be89ed05</title>
 		<?php require_once "bootstrap.php"; ?>
 	</head>
 	<body>
