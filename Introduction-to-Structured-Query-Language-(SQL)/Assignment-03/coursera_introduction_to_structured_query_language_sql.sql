@@ -6,7 +6,6 @@
 -- Generation Time: Nov 20, 2017 at 08:35 AM
 -- Server version: 5.6.35
 -- PHP Version: 7.1.1
-
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
@@ -19,7 +18,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `coursera_introduction_to_structured_query_language_sql`
 --
-
 -- --------------------------------------------------------
 
 --
